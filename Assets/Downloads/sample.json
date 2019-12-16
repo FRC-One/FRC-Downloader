@@ -1,0 +1,10 @@
+{
+  "apps": [
+    {
+      "Name": "Test App",
+      "URL": "https://example.com",
+      "FileName": "index.html",
+      "Compressed": false
+    }
+  ]
+}

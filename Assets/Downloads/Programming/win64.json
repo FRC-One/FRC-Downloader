@@ -1,0 +1,52 @@
+{
+  "apps": [
+    {
+      "Name": "WPILib",
+      "URL": "https://github.com/wpilibsuite/allwpilib/releases/download/v2019.4.1/WPILibInstaller_Windows64-2019.4.1.zip",
+      "FileName": "WPILibInstaller_Windows64-2019.4.1.zip",
+      "Compressed": true
+    },
+    {
+      "Name": "NI Update Suite",
+      "URL": "http://download.ni.com/support/softlib/first/frc/FileAttachments/FRCUpdateSuite_2019.2.0.zip",
+      "FileName": "FRCUpdateSuite_2019.2.0.zip",
+      "Compressed": true
+    },
+    {
+      "Name": "CTRE Phoenix",
+      "URL": "https://github.com/CrossTheRoadElec/Phoenix-Releases/releases/download/Phoenix_v5.15.0.0/CTRE.Phoenix.Framework.v5.15.0.0.zip",
+      "FileName": "CTRE.Phoenix.Framework.v5.15.0.0.zip",
+      "Compressed": true
+    },
+    {
+      "Name": "Radio Configuration",
+      "URL": "https://firstfrc.blob.core.windows.net/frc2019/Radio/FRC_Radio_Configuration_19_1_1.zip",
+      "FileName": "FRC_Radio_Configuration_19_1_1.zip",
+      "Compressed": true
+    },
+    {
+      "Name": "Radio Configuration (Israel)",
+      "URL": "https://firstfrc.blob.core.windows.net/frc2019/Radio/FRC_Radio_Configuration_19_1_1_IL.zip",
+      "FileName": "FRC_Radio_Configuration_19_1_1_IL.zip",
+      "Compressed": true
+    },
+    {
+      "Name": "VS Code 64-bit",
+      "URL": "https://vscode-update.azurewebsites.net/1.30.1/win32-x64-archive/stable",
+      "FileName": "VSCode-win64.zip",
+      "Compressed": true
+    },
+    {
+      "Name": "REV Robotics SPARK MAX",
+      "URL": "http://www.revrobotics.com/content/sw/max/SPARK-MAX-Software-All-CSATool-031219.zip",
+      "FileName": "SPARK-MAX-Software-All-CSATool-031219.zip",
+      "Compressed": true
+    },
+    {
+      "Name": "Python",
+      "URL": "https://www.python.org/ftp/python/3.8.0/python-3.8.0.exe",
+      "FileName": "python-3.8.0.exe",
+      "Compressed": false
+    }
+  ]
+}
