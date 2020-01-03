@@ -1,4 +1,6 @@
 FriendlyName,FileName,URL,isZipped
+WPILib Docs (HTML),frc-docs-latest.zip,https://readthedocs.org/projects/frc-docs/downloads/htmlzip/latest/,TRUE
+WPILib Docs (PDF),WPILib.pdf,https://readthedocs.org/projects/frc-docs/downloads/pdf/latest/,FALSE
 REV-SPARK-MAX,SPARK-MAX-Software-All-CSATool-031219.zip,http://www.revrobotics.com/content/sw/max/SPARK-MAX-Software-All-CSATool-031219.zip,TRUE
 2020Manual,2020FRCGameSeasonManual.pdf,https://firstfrc.blob.core.windows.net/frc2020/Manual/2020FRCGameSeasonManual.pdf,FALSE
 WPILib-Offline-Installer64,WPILibInstaller_Windows64-2020.1.2.zip,https://github.com/wpilibsuite/allwpilib/releases/download/v2020.1.2/WPILibInstaller_Windows64-2020.1.2.zip,TRUE
