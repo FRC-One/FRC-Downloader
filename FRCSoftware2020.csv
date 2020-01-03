@@ -5,9 +5,9 @@ WPILib-Offline-Installer64,WPILibInstaller_Windows64-2020.1.2.zip,https://github
 WPILib-Offline-Installer,WPILibInstaller_Windows32-2020.1.2.zip,https://github.com/wpilibsuite/allwpilib/releases/download/v2020.1.2/WPILibInstaller_Windows32-2020.1.2.zip,TRUE
 Game Tools,ni-frc-2020-game-tools_19.0_online.exe,https://download.ni.com/support/nipkg/products/ni-f/ni-frc-2020-game-tools/19.0/online/ni-frc-2020-game-tools_19.0_online.exe,FALSE
 Password,2020Password.txt,https://raw.githubusercontent.com/JamieSinn/CSA-USB-Tool/master/2020Password.txt,FALSE
-CTRE-Phoenix-Win,CTRE.Phoenix.Framework.v5.15.0.0.zip,https://github.com/CrossTheRoadElec/Phoenix-Releases/releases/download/Phoenix_v5.15.0.0/CTRE.Phoenix.Framework.v5.15.0.0.zip,TRUE
-RadioConfigTool,FRC_Radio_Configuration_19_1_1.zip,https://firstfrc.blob.core.windows.net/frc2019/Radio/FRC_Radio_Configuration_19_1_1.zip,TRUE
-RadioConfigTool-ISRAEL,FRC_Radio_Configuration_19_1_1_IL.zip,https://firstfrc.blob.core.windows.net/frc2019/Radio/FRC_Radio_Configuration_19_1_1_IL.zip,TRUE
+CTRE-Phoenix-Win,Phoenix-diagnostics-Tuner-v1.5.5.zip,https://github.com/CrossTheRoadElec/Phoenix-Releases/releases/download/Tuner_v1.5.5/Phoenix-diagnostics-Tuner-v1.5.5.zip,TRUE
+RadioConfigTool,FRC_Radio_Configuration_20_0_0.zip,https://firstfrc.blob.core.windows.net/frc2020/Radio/FRC_Radio_Configuration_20_0_0.zip,TRUE
+RadioConfigTool-ISRAEL,FRC_Radio_Configuration_20_0_0_IL.zip,https://firstfrc.blob.core.windows.net/frc2020/Radio/FRC_Radio_Configuration_20_0_0_IL.zip,TRUE
 NavX,navx-mxp.zip,https://www.kauailabs.com/public_files/navx-mxp/navx-mxp.zip,TRUE
 VSCode-1.30.1,VSCode-win32.zip,https://vscode-update.azurewebsites.net/1.30.1/win32-archive/stable,TRUE
 VSCode-1.30.1-64,VSCode-win64.zip,https://vscode-update.azurewebsites.net/1.30.1/win32-x64-archive/stable,TRUE
