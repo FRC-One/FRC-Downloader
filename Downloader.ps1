@@ -11,7 +11,7 @@ Write-Output " "
 Write-Output " "
 Write-Output " "
 Write-Output " "
-Write-Output " "
+Write-Output "Downloading can take a while. Please wait."
 
 
 ForEach ($entry in $P){
@@ -30,7 +30,7 @@ ForEach ($entry in $P){
 
 	If($zipped -eq "TRUE"){
 		$unzipOutput = "$PSScriptRoot\$friendlyName"
-		Write-Output "Uncompressing $friendlyName to $unzipOutput"
+		Write-Output "Expanding $friendlyName to $unzipOutput"
 
 		Expand-Archive -LiteralPath $output -DestinationPath $unzipOutput
 	}
