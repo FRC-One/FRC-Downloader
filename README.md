@@ -22,7 +22,7 @@ Once the script is run and a (usually blue) window appears, the downloading will
 
 A table will be shown at the top of the window with all of the software to be downloaded.
 
-Once all software is downloaded, press any key to end the script.
+Once all software is downloaded, the Powershell window will close.
 
 ## Install the Software
 
